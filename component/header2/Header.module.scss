@@ -1,0 +1,33 @@
+
+.container_header {
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    width: 100%;
+    background-color:red;
+ 
+
+.liItem{
+    list-style: none;
+    float: left;
+    margin: 0 15px;
+    padding: 15px;
+    
+    a{
+        text-decoration: none;
+        color:white;
+        font-weight: bold;
+        font-size: 18px;
+    }
+  
+}
+}
+.button {
+    background-color: red !important;
+    border-color: red;
+}
+.navItem{
+    color:black !important
+}
+   
+
